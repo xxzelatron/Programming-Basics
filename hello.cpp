@@ -8,7 +8,7 @@ int main(){
 /*
 Q: why iostream ? 
 Ans:iostream is header from input output stream 
-library. Header contains std::cout ot std::cin objects
+library. Header contains std::cout, std::cin objects
 */
 
 
