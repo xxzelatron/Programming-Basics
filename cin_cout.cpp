@@ -6,7 +6,7 @@ int main (){
     for (int i=0; i<5; i++) {
         std::cout << "enter number to add" << std::endl;
         std::cin >> num;
-        // how to handle incorrect output? 
+        // how to handle incorrect input? 
         if(std::cin.fail()){
             break;    
         }
